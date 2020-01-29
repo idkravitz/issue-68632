@@ -1,5 +1,7 @@
 # The setup code for [issue 68632](https://github.com/rust-lang/rust/issues/68632)
 
+Intended to run with `cargo bench`
+
 Uncomment these lines in Cargo.toml to see that issue gone
 
 	#[profile.release]
